@@ -5,7 +5,7 @@
 
 
 
-  <img align="right" alt="GIF" src="https://github.com/codingshields/codingshields/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/CodingShields/codingshields/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💬 ask me about anything, i am happy to help;
 **Languages and Tools:**  
